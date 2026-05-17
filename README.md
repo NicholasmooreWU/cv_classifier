@@ -1,4 +1,4 @@
-# PNNL-Style Image Classifier 🛡️
+# PNNL-Style Image Classifier
 
 A beginner-friendly PyTorch computer vision project aligned with the skills
 in PNNL's National Security Directorate AI/ML role.
