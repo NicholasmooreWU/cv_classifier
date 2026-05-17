@@ -53,7 +53,7 @@ For national-security framing, focus on: **airplane, automobile, ship, truck**.
 |---|---|
 | Training time (CPU) | ~5–10 min |
 | Training time (GPU) | ~2–3 min |
-| Validation accuracy | **~82–86%** after 15 epochs |
+| Validation accuracy | **~75%** after 15 epochs |
 
 ## Key Concepts (Plain English)
 
